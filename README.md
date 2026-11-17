@@ -6,17 +6,17 @@ Runs with minimal input, controls the browser fully without assistant. Save to s
 
 -------------------------------------------------------
 
-4 sheets examples to get you started, that you can use right now يحتوي اربع قوائم جاهزة للاستعمال الان، انظر ملفات الاكسل بالاعلى
+5 examples to get you started, that you can use right now يحتوي اربع قوائم جاهزة للاستعمال الان، انظر ملفات الاكسل بالاعلى
 (look at the .csv & .xlsx files above)
 
-1. WWFF24: 14,000 Startups raised more than 100k in 2024 worldwide. divided by region from the Middle East, EU, Southeast Asia to South America.
-2. Chamber Of Commerce26: Updated list of ~5000 companies registered locally. Jan 2026 update.  
-3. Bridal25: 1000s of Bridal Shops in Europe. You can adjust location in the app to get more. 
-4. Hardware25: 1000s of small businesses that sell physical products.
-
+1. WWFF 2025: 14,000 Startups that raised more than 100k in 2024 worldwide. Divided by region from Middle East, EU, Southeast Asia to South America.
+2. Chamber Of Commerce 2026: Updated list of ~5000 companies registered locally. Jan 2026 update.  
+3. Bridal EUMA 2025: 1000s of Bridal Shops in Europe and Middle East. You can adjust business type in the app to other types of shops. 
+4. Hardware 2025: 1000s of small businesses that sell physical products.
+5. New US Q325: Tracking newly registered business in the US Summer 2025.
 ---
 
-## OldScraper25
+App #1: ## OldScraper25
 
 ### English
 
